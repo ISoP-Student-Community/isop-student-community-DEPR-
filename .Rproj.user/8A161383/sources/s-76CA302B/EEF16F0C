@@ -1,24 +1,22 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1588726853614.000,
+    "created" : 1588734498323.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "CA11FB50",
+    "hash" : "61358345",
+    "id" : "EEF16F0C",
     "lastKnownWriteTime" : 1588731803,
     "last_content_update" : 1588731803,
-    "path" : "~/Documents/ISoP/isop-student-community/content/getting-started/installation.md",
-    "project_path" : "content/getting-started/installation.md",
+    "path" : "~/Documents/ISoP/isop-student-community/content/getting-started/_index.md",
+    "project_path" : "content/getting-started/_index.md",
     "properties" : {
-        "cursorPosition" : "0,0",
-        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 3,
+    "relative_order" : 5,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"

@@ -1,4 +1,4 @@
-baseURL = "https://mutaz94.github.io/isop-student-community/"
+baseURL = "https://isop-student-community.github.io/isop-student-community/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -34,12 +34,12 @@ url = ""
 weight = 1
 [[menu.shortcuts]]
 name = "Home"
-url = "https://vantage-design.com"
+url = ""
 weight = 1
 
 [[menu.shortcuts]]
 name = "Contact info"
-url = "https://vantage-design.com"
+url = "/contact/"
 weight = 2
 
 

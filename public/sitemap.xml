@@ -3,96 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/isop-student-community/shortcodes/alerts/</loc>
+    <loc>/isop-student-community/categories/</loc>
   </url>
   
   <url>
-    <loc>/isop-student-community/getting-started/</loc>
+    <loc>/isop-student-community/contact/contact/</loc>
   </url>
   
   <url>
-    <loc>/isop-student-community/getting-started/installation/</loc>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/shortcodes/buttons/</loc>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/getting-started/usage/</loc>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/shortcodes/childpages/</loc>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/shortcodes/code/</loc>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/shortcodes/collapse/</loc>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/shortcodes/doublecode/</loc>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/shortcodes/lead/</loc>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/shortcodes/panel/</loc>
+    <loc>/isop-student-community/contact/</loc>
   </url>
   
   <url>
     <loc>/isop-student-community/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>/isop-student-community/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/isop-student-community/shortcodes/</loc>
   </url>
   
 </urlset>
