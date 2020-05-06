@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "886403299",
+    "hash" : "3994070744",
     "id" : "985727F1",
-    "lastKnownWriteTime" : 1588726232,
-    "last_content_update" : 1588726232705,
+    "lastKnownWriteTime" : 1588727014,
+    "last_content_update" : 1588727014555,
     "path" : "~/Documents/ISoP/isop-student-community/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "46,0",
-        "scrollLine" : "23"
+        "cursorPosition" : "2,22",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
