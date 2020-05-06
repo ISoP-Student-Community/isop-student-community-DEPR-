@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ISoP Student on ISoP Student Community</title>
-    <link>/isop-student-community/</link>
+    <link>/</link>
     <description>Recent content in ISoP Student on ISoP Student Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/isop-student-community/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact info</title>
-      <link>/isop-student-community/contact/contact/</link>
+      <link>/contact/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/isop-student-community/contact/contact/</guid>
+      <guid>/contact/contact/</guid>
       <description> Who are we. Page under construction
  </description>
     </item>

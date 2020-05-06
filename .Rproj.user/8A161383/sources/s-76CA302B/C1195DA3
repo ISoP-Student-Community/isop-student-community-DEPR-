@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588739815293.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2761038254",
+    "id" : "C1195DA3",
+    "lastKnownWriteTime" : 1588737079,
+    "last_content_update" : 1588737079,
+    "path" : "~/Documents/ISoP/isop-student-community/themes/ace-documentation/layouts/index.json",
+    "project_path" : "themes/ace-documentation/layouts/index.json",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "json"
+}

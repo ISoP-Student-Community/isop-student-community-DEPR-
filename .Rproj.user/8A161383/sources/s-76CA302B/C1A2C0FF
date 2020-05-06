@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588739611694.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "562071108",
+    "id" : "C1A2C0FF",
+    "lastKnownWriteTime" : 1588737079,
+    "last_content_update" : 1588737079,
+    "path" : "~/Documents/ISoP/isop-student-community/themes/ace-documentation/theme.toml",
+    "project_path" : "themes/ace-documentation/theme.toml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

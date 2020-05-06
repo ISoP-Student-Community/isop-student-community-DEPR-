@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588739626505.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4275155986",
+    "id" : "E873FC02",
+    "lastKnownWriteTime" : 1588737079,
+    "last_content_update" : 1588737079,
+    "path" : "~/Documents/ISoP/isop-student-community/themes/ace-documentation/archetypes/default.md",
+    "project_path" : "themes/ace-documentation/archetypes/default.md",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
