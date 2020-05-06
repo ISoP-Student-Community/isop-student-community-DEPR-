@@ -1,25 +1,25 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1588736371012.000,
+    "created" : 1588739284051.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "1B70379C",
+    "id" : "243585AB",
     "lastKnownWriteTime" : 1588737079,
     "last_content_update" : 1588737079,
-    "path" : "~/Documents/ISoP/isop-student-community/content/contact/contact.Rmd",
-    "project_path" : "content/contact/contact.Rmd",
+    "path" : "~/Documents/ISoP/isop-student-community/themes/ace-documentation/README.md",
+    "project_path" : "themes/ace-documentation/README.md",
     "properties" : {
-        "cursorPosition" : "0,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "22,27",
+        "scrollLine" : "12"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 4,
+    "relative_order" : 5,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "r_markdown"
+    "type" : "markdown"
 }
