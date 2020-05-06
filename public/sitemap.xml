@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/isop-student-community/categories/</loc>
   </url>
   
   <url>
-    <loc>/contact/contact/</loc>
+    <loc>/isop-student-community/contact/contact/</loc>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>/isop-student-community/contact/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/isop-student-community/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/isop-student-community/tags/</loc>
   </url>
   
 </urlset>

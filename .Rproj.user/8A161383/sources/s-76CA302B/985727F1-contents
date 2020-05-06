@@ -1,4 +1,4 @@
-baseURL = "https://isop-student-community.github.io/"
+baseURL = "https://isop-student-community.github.io/isop-student-community/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
